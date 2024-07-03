@@ -8,7 +8,7 @@ This repository contains the code for generating the plots used in
 Mexicano.” Nexos (Pacto Federal), May 18,
 2022](https://federalismo.nexos.com.mx/2022/05/progreso-y-retroceso-social-en-el-sureste-mexicano/).
 
-<img src="02_graficas/ips-vs-pib-capita.png" data-fig-align="center"
+<img src="02_graficas/comp-ips.jpg" data-fig-align="center"
 width="550" />
 
 - The text discusses the limitations of using economic indicators such

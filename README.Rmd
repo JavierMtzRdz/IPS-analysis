@@ -15,7 +15,7 @@ knitr::opts_chunk$set(
 
 This repository contains the code for generating the plots used in [Martínez Rodríguez, Javier. "Progreso y Retroceso Social en el Sureste Mexicano." Nexos (Pacto Federal), May 18, 2022](https://federalismo.nexos.com.mx/2022/05/progreso-y-retroceso-social-en-el-sureste-mexicano/).
 
-![](02_graficas/ips-vs-pib-capita.png){fig-align="center" width="550"}
+![](02_graficas/comp-ips.jpg){fig-align="center" width="550"}
 
 * The text discusses the limitations of using economic indicators such as GDP per capita to evaluate the quality of life in the southeastern region of Mexico, specifically Oaxaca, Chiapas, and Guerrero.
 * It argues that for a more complete understanding of the quality of life in this region, it is necessary to examine its economic situation and complement it with measures focused on evaluating human development, such as the <a href="https://github.com/mexicocomovamos/ips">IPS (Social Progress Index)</a> of Mexico.
